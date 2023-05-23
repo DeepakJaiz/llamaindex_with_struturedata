@@ -10,3 +10,10 @@ https://gpt-index.readthedocs.io/en/latest/guides/tutorials/sql_guide.html
 `You required Phython in your system fyou can follow this (https://www.python.org)`<br/>
 `OpenAi API key required to get you can follow this link (https://platform.openai.com/account/api-keys)` <br/>
 `Install Jupyter Notebook to run the code` <br/>
+
+### Modules required
+`!pip3 install openai`<br/>
+`!pip3 install llama-index`<br/>
+
+### How to run
+Open the file in jupyter notebook and then execute the cell from top to bottom.
